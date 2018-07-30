@@ -1,7 +1,7 @@
 {
     "name": "anxiaowen2/anson-test4",
     "description": "test composer",
-    "version": "dev-master",
+      "version": "1.0.0",
     "minimum-stability": "stable",
   "homepage": "https://github.com/anxiaowen2/anson-test4"
 }
